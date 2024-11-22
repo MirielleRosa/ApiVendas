@@ -1,6 +1,6 @@
 # apiVendas
 
-Este projeto é uma API voltada para a gestão de clientes, produtos e vendas. As rotas de acesso aos dados de clientes, produtos e vendas são protegidas e podem ser acessadas apenas por usuários autenticados via **JWT** (JSON Web Token).
+O projeto da API foi desenvolvido utilizando o AdonisJS, um framework Node.js que oferece uma estrutura robusta e eficiente para a construção de aplicações web, como esta API de gestão de clientes, produtos e vendas. O AdonisJS foi escolhido devido à sua capacidade de fornecer uma solução completa para o desenvolvimento de APIs, incluindo a integração com bancos de dados e a implementação de autenticação com JWT.
 
 ## Tecnologias Utilizadas
 
